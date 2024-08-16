@@ -14,5 +14,8 @@
     "mocha": "^10.7.3",
     "mochawesome": "^7.1.3",
     "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "jsonschema": "^1.4.1"
   }
 }
